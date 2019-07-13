@@ -2,7 +2,7 @@
 
 
 
-![poster](<https://github.com/econovationhackathon/hackathon/images/poster.png>)
+![poster](<https://github.com/econovationhackathon/hackathon/blob/master/images/poster.png?raw=true>)
 
 '이노베이션 해커톤'은 기획자, 개발자, 디자이너와 같은 다양한 분야의 분들이 함께 팀으로 협력하는 자리입니다. 
 
